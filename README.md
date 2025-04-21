@@ -9,6 +9,9 @@ A growing, curated collection of resources, tools, and references for developers
 ### API Collections
 - A list of [free APIs for frontend development](./free-apis-for-frontend-development/README.md), grouped by topic (weather, finance, games, etc.)
 
+### Design Tools
+- Collection of [design resources](./design-tools/README.md) including [icon generation tools](./design-tools/icon-generation-tools.md)
+
 ### Learning & Reference Materials _(Coming Soon)_
 - Cheatsheets, doc links, blog posts worth bookmarking.
 - Pinned guides and how-tos for common dev problems.
